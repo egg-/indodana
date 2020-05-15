@@ -1,0 +1,41 @@
+{
+  "name": "indodana",
+  "version": "1.0.0",
+  "description": "indodana sdk for nodejs.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://egg-@github.com/egg-/indodana.git"
+  },
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/indodana/issues"
+  },
+  "homepage": "https://github.com/egg-/indodana#readme",
+  "keywords": [
+    "indodana",
+    "payloan"
+  ],
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "grunt": "1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha-test": "^0.13.3",
+    "matchdep": "^2.0.0",
+    "mocha": "^7.1.1",
+    "standard": "^14.3.3"
+  }
+}

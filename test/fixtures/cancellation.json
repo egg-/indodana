@@ -1,0 +1,8 @@
+{
+  "refundId": "<REFUND-ID>",
+  "merchantOrderId": "<MERCHANT-ORDER-ID>",
+  "cancellationAmount": 4500000,
+  "cancellationReason": "Out of stock",
+  "cancelledBy": "TESTER",
+  "cancellationDate": "2019-09-12T18:18:18+07:00"
+}

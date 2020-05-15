@@ -1,0 +1,16 @@
+{
+  "amount": 4500000,
+  "items": [
+    {
+      "id": "test-item-id",
+      "name": "iPhone 6S",
+      "price": 4500000,
+      "url": "http://merchant.com/phone/iphone-6s",
+      "imageUrl": "http://merchant.com/phone/iphone-6s/cover.jpg",
+      "type": "Mobile Phone",
+      "quantity": 1,
+      "parentType": "SELLER",
+      "parentId": "seller-id"
+    }
+  ]
+}
