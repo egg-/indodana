@@ -36,6 +36,6 @@
     "grunt-mocha-test": "^0.13.3",
     "matchdep": "^2.0.0",
     "mocha": "^7.1.1",
-    "standard": "^14.3.3"
+    "standard": "8.6.0"
   }
 }
